@@ -13,7 +13,7 @@ const Opacity = () => {
   }
 
   const handleDown = () => {
-    setDragging(true)
+    // setDragging(true)
   }
 
   const handleMove = (e) => {

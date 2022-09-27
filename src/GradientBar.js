@@ -52,7 +52,7 @@ export const Handle = ({ left, i, setDragging }) => {
   const handleDown = (e) => {
     e.stopPropagation();
     setSelectedColor(i);
-    setDragging(true)
+    // setDragging(true)
   }
 
   return(

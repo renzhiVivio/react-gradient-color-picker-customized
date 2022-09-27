@@ -14,7 +14,7 @@ const Hue = () => {
   };
 
   const handleDown = () => {
-    setDragging(true);
+    // setDragging(true);
   };
 
   const handleMove = e => {
