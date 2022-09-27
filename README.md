@@ -4,7 +4,7 @@
 
 
 ## Source
-Import from [here](https://github.com/hxf31891/react-gradient-color-picker)
+Import from [hxf31891/react-gradient-color-picker](https://github.com/hxf31891/react-gradient-color-picker)
 
 
 ## License
