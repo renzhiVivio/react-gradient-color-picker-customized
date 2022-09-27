@@ -55,9 +55,9 @@ const AdvBar = ({ left, callback, reffy }) => {
   }
 
   const handleMove = (e) => {
-    if (dragging) {
-      callback(getHandleValue(e))
-    }
+    // if (dragging) {
+    //   callback(getHandleValue(e))
+    // }
   }
 
   const handleClick = (e) => {

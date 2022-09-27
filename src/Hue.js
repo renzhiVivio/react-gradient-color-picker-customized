@@ -18,9 +18,9 @@ const Hue = () => {
   };
 
   const handleMove = e => {
-    if (dragging) {
-      handleHue(e);
-    }
+    // if (dragging) {
+    //   handleHue(e);
+    // }
   };
 
   const handleClick = e => {

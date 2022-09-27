@@ -17,9 +17,9 @@ const Opacity = () => {
   }
 
   const handleMove = (e) => {
-    if (dragging) {
-      handleOpacity(e)
-    }
+    // if (dragging) {
+    //   handleOpacity(e)
+    // }
   }
 
   const handleClick = (e) => {

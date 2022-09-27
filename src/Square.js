@@ -21,9 +21,9 @@ const Square = () => {
   }
 
   const handleMove = (e) => {
-    if (dragging) {
-      handleChange(e)
-    }
+    // if (dragging) {
+    //   handleChange(e)
+    // }
   }
 
   const handleClick = (e) => {

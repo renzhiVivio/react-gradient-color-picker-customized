@@ -25,9 +25,9 @@ const GradientBar = () => {
   }
 
   const handleMove = (e) => {
-    if (dragging) {
-      handleGradient(currentColor, getHandleValue(e))
-    }
+    // if (dragging) {
+    //   handleGradient(currentColor, getHandleValue(e))
+    // }
   }
 
   return(
